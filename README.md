@@ -32,6 +32,7 @@
 
 🖼️ Скриншот проекта
 
-![Dashboard Preview](Python-Jupyter-Notebook-28.png)
+![Dashboard Preview](Python-Jupyter-Notebook-27.png)
+
 
 
